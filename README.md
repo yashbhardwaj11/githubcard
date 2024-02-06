@@ -1,2 +1,2 @@
 # Github Cards
-```Find your id and make a good looking card out of it```
+```Find your github username and make a good looking card out of it```
